@@ -1,1 +1,1 @@
-Data files for the manuscript "On the calculation and use of effective single-particle energies. The example of the neutron 1d3/2-1d5/2 splitting along N=20 isotopes", by Vittorio Somà and Thomas Duguet, submitted to Philosophical Transactions of the Royal Society A on 17/01/2024
+Data files for the manuscript "On the calculation and use of effective single-particle energies. The example of the neutron 1d3/2-1d5/2 splitting along N=20 isotopes", by Vittorio Somà and Thomas Duguet, submitted to Philosophical Transactions of the Royal Society A on 17/01/2024.
