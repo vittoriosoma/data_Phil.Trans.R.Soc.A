@@ -1,0 +1,12 @@
+# Delta_SO (40-36)
+
+# ADC2
+2.83  # E_cut = 10  
+0.87  # E_cut = 20  
+1.24  # E_cut = 40  
+1.57  # E_cut = 80  
+2.48  # E_cut = 100  
+1.50  # E_cut = infty
+
+# ADC3
+1.26  # E_cut = infty
